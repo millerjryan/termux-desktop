@@ -8,11 +8,11 @@
 ## 🚀 One-Command Installation
 Open **Termux** and paste this:
 ```bash
-curl -sL https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/millerjryan/termux-desktop/main/install.sh | bash
 ```
 **Or using wget:**
 ```bash
-wget -O - https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
+wget -O - https://raw.githubusercontent.com/millerjryan/termux-desktop/main/install.sh | bash
 ```
 ---
 ## ✨ Features
@@ -136,3 +136,4 @@ If this helped you, please give it a **star** ⭐ - it helps others find this pr
   <br><br>
   Made with ❤️ by <b>Tech Jarves</b>
 </p>
+
